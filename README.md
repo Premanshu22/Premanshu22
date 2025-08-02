@@ -8,6 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me
+- 👨‍💻 I code like a knight defends — with discipline and precision. 
 - 🎓 Final Year B.Tech CSE student at MAKAUT  
 - 💼 Working on projects in Java, MERN, AI  
 - 📈 Preparing for placements: TCS, Cognizant, Deloitte  

@@ -12,7 +12,7 @@
 - 💼 Working on projects in Java, MERN, AI  
 - 📈 Preparing for placements: TCS, Cognizant, Deloitte  
 - 🛠️ Currently building: **Smart Education Platform** & **Criminal Network Influence Maximization System**  
-- ⚡ Fun fact: I love building portfolio websites for others 😄  
+- ⚡ Fun fact: I love building portfolio websites 😄  
 
 ---
 
@@ -56,7 +56,7 @@
   <a href="https://www.linkedin.com/in/premanshu-das-biswas-38562a205/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:premanshu@example.com">
+  <a href="mailto:premanshudb@example.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

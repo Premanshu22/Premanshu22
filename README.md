@@ -50,7 +50,7 @@
 ---
 ### 📈 LeetCode Activity Graph
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/QuantumCoder?theme=dark&font=Fira%20Code&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/premanshu22?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
 ### 📫 Let's Connect

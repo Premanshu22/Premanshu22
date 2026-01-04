@@ -27,29 +27,31 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Premanshu22&show_icons=true&theme=tokyonight&count_private=true&v=2" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premanshu22&layout=compact&theme=tokyonight&v=2" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Premanshu22&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premanshu22&layout=compact&theme=tokyonight&langs_count=8" />
+
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Premanshu22&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Premanshu22&theme=tokyonight&no-frame=true&row=2&column=3" />
 </p>
+
 
 ---
 
 ### 📈 GitHub Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Premanshu22&theme=react-dark&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Premanshu22&theme=react-dark&hide_border=true" />
 
 ---
+### 📈 LeetCode Activity Graph
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/QuantumCoder?theme=dark&font=Fira%20Code&ext=contest" />
+</p>
 
 ### 📫 Let's Connect
 

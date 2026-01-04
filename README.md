@@ -11,9 +11,8 @@
 - 👨‍💻 I code like a knight defends — with discipline and precision. 
 - 🎓 Final Year B.Tech CSE student at MAKAUT  
 - 💼 Working on projects in Java, MERN, AI  
-- 📈 Preparing for placements: TCS, Cognizant, Deloitte  
-- 🛠️ Currently building: **Smart Education Platform** & **Criminal Network Influence Maximization System**  
-- ⚡ Fun fact: I love building portfolio websites 😄  
+- 📈 Preparing for placements 
+- 🛠️ Currently building: **AI Resume Builder Web App** & **Criminal Network Influence Maximization System**  
 
 ---
 
@@ -27,9 +26,10 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Premanshu22&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premanshu22&layout=compact&theme=tokyonight&langs_count=8" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Premanshu22&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=86400" />
+</p>
+
 
 
 ---
